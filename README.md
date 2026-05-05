@@ -12,3 +12,15 @@ Then click on this button <img width="275" height="147" alt="image" src="https:/
 Go to the Google Colab website, linked here: https://colab.research.google.com/
 in the top left of the screen, click on `File`, then `Upload Notebook`
 <img width="494" height="199" alt="image" src="https://github.com/user-attachments/assets/9eaa96a5-d336-408f-b469-7981139276b1" />
+
+You will now see a screen like this:
+<img width="1865" height="905" alt="image" src="https://github.com/user-attachments/assets/bf7d7b03-66de-434c-86e2-a4b1feff5bca" />
+
+Open File Explorer and go to `Downloads` 
+<img width="882" height="509" alt="image" src="https://github.com/user-attachments/assets/d17ce922-4849-48d6-b069-332b9862adfc" />
+
+Drag the downloaded code file over the `Browse` button. This will upload the code to Google Colab.
+<img width="1865" height="913" alt="image" src="https://github.com/user-attachments/assets/52cc19f4-f1dc-437d-a042-79fb4e4f9c0a" />
+
+You will now be redirected to a screen that looks like this. Click on the `Run All` button, circled in red, and you will run all of the code.
+<img width="1871" height="923" alt="image" src="https://github.com/user-attachments/assets/68bd9e3d-de8f-4d9e-8b14-f204dbb32c5e" />
